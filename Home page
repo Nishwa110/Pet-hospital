@@ -18,15 +18,5 @@
         </ul>
     </nav>
     <p> Welcome to Pet planet! </p>
-    <div class="login">
-        <div>
-            <form class="Name"> 
-                    <label>Name:</label>
-                    <input type="text" placeholder="Enter your name">
-                <label>password</label>
-                <input type="password" placeholder="Enter your password">
-            </form>
-        </div>
-    </div>
 </body>
 </html>
