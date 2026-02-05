@@ -9,23 +9,6 @@ p{
     text-align: center;
     font-size: 55px;
 }
-.login {
-    background-color: azure;
-    width: 300px;
-    height: 300px;
-    margin: 0 auto;
-    border-radius: 9px;
-    text-align: center;
-}
-
-.login input{
-    font-size: 18px;
-    margin-bottom: 30px;
-}
-
-.login form{
-    padding: 10px;
-}
 
 nav{
     background-color: rgb(203, 181, 214);
@@ -35,14 +18,12 @@ nav{
 }
 nav ul{
     display: flex;
+    
 }
-
 li{ 
-    align-content: normal;
+    align-content:space-evenly;
     padding-left: 20px;
     margin-bottom: 30px;
-    list-style: none;
-
+    list-style: none;    
 }
-
 
