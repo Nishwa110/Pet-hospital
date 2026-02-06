@@ -14,16 +14,18 @@ nav{
     background-color: rgb(203, 181, 214);
     padding-top: 10px;
     border-radius: 6px;
-
 }
 nav ul{
     display: flex;
-    
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 45px;
 }
 li{ 
+    
     align-content:space-evenly;
     padding-left: 20px;
-    margin-bottom: 30px;
-    list-style: none;    
+    margin-bottom: 25px;
+    list-style: none; 
 }
 
