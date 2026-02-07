@@ -16,7 +16,8 @@
             <li> Reviews </li>
             <li> Contact </li>
         </ul>
+        <p class="name">Pet Planet Hospital</p>
     </nav>
-    <p> Welcome to Pet planet! </p>
+    
 </body>
 </html>
