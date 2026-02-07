@@ -18,6 +18,12 @@
         </ul>
         <p class="name">Pet Planet Hospital</p>
     </nav>
-    
+    <main>
+        <p>
+            <span class="CC">Compassionate care,</span><br>
+            <span class="CEM">Cutting-edge medicine</span>
+        </p>
+       
+    </main>
 </body>
 </html>
