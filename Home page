@@ -20,8 +20,8 @@
     </nav>
     <main>
         <p>
-            <span class="CC">Compassionate care,</span><br>
-            <span class="CEM">Cutting-edge medicine</span>
+            <div class="CC">Compassionate care,<br>Cutting-edge medicine.<br><p class="description">Pet Planet hospital is a full service state accredited<br> veterinary hospital. We know how important your pets are and<br> believe they are part of your family.</p></div>
+            
         </p>
        
     </main>
