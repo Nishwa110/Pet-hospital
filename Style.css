@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(187, 104, 191);
+    background-color: rgb(236, 220, 240);
     margin: 0px;
     padding: 0px;
 }
@@ -9,7 +9,7 @@ p{
     font-size: 22px;
 }
 nav{
-    background-color: rgb(203, 181, 214);
+    background-color: rgb(242, 208, 208);
     padding-top: 10px;
 }
 .name{
@@ -20,7 +20,7 @@ nav{
     color: black;
     font-weight:bold;
     font-family:'Courier New', Courier, monospace;
-    left: 30px;
+    padding-left: 40px;
 }
 
 nav ul{
@@ -35,9 +35,14 @@ li{
     font-size: 22px;
 }
 .CC{
-    color: blue
-}
-.CEM{
-    color: aquamarine;
+   
+    color: rgb(0, 0, 0);
+    padding: 110px;
+    padding-top: 90px;
+    font-size: 40px;
 }
 
+.description{
+    color: black;
+    font-size: 22px;
+}
