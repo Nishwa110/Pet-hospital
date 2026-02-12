@@ -33,7 +33,6 @@ li{
     align-content:space-evenly;
     list-style: none; 
     font-size: 22px;
-    
 }
 .CC{
    
@@ -46,4 +45,8 @@ li{
 .description{
     color: black;
     font-size: 22px;
+}
+
+.CAT{
+    display: inline;
 }
