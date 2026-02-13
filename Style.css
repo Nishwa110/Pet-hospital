@@ -48,13 +48,10 @@ li{
 }
 
 .CAT{
-    display: flex;
-    height: 300px;
-    width: 270px;
-    justify-content: flex-end;
-    align-items: center;
-    position: relative;
-    margin-bottom: 10px;
-    padding-left: 90px;
-
+    height: 350px;
+    width: 290px;
+    position: absolute;   
+    top: 20px;            
+    right: 250px;         
+    padding: 100px;
 }
