@@ -7,22 +7,27 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <nav>
-        <ul>
-            <li> About Us </li>
-            <li> Services </li>
-            <li> Shop </li>
-            <li> Resources</li>
-            <li> Reviews </li>
-            <li> Contact </li>
-        </ul>
-        <p class="name">Pet Planet Hospital</p>
-    </nav>
+    <header>
+        <nav>
+            <ul>
+                <li> About Us </li>
+                <li> Services </li>
+                <li> Shop </li>
+                <li> Resources</li>
+                <li> Reviews </li>
+                <li> Contact </li>
+            </ul>
+            <p class="name">Pet Planet Hospital</p>
+        </nav>
+    </header>
     <main>
         <p>
             <div class="CC">Compassionate care,<br>Cutting-edge medicine.<br><p class="description">Pet Planet hospital is a full service state accredited<br> veterinary hospital. We know how important your pets are and<br> believe they are part of your family.</p></div>
         </p>
-        <img src="Cat.jpg" alt="description">
+        <img class="CAT" src="Cat.jpg" alt="description">
     </main>
+    <footer class="footer">
+        <p class="motive">Our Motive</p>
+    </footer>
 </body>
 </html>
