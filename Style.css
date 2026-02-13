@@ -55,3 +55,14 @@ li{
     right: 250px;         
     padding: 100px;
 }
+
+.footer{
+    background-color:rgb(242, 208, 208);
+    padding: 50px;
+    text-align: center;
+    font-size: 22px;
+}
+.footer motive{
+    padding-bottom: 30px;
+    color: black;
+}
