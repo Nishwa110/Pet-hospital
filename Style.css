@@ -1,68 +1,81 @@
-body{
-    background-color: rgb(236, 220, 240);
-    margin: 0px;
-    padding: 0px;
+body {
+  background-color: rgb(236, 220, 240);
+  margin: 0px;
+  padding: 0px;
 }
-p{
-    color: whitesmoke;
-    text-align: left;
-    font-size: 22px;
+p {
+  color: whitesmoke;
+  text-align: left;
+  font-size: 22px;
 }
-nav{
-    background-color: rgb(242, 208, 208);
-    padding-top: 10px;
+nav {
+  background-color: rgb(242, 208, 208);
+  padding-top: 10px;
 }
-.name{
-    position: relative;
-    margin-top: 3px;
-    top: -40px;
-    font-size: 25px;
-    color: black;
-    font-weight:bold;
-    font-family:'Courier New', Courier, monospace;
-    padding-left: 40px;
-}
-
-nav ul{
-    display: flex;
-    justify-content: flex-end;
-    gap: 20px;
-    padding-right: 45px;
-}
-li{ 
-    align-content:space-evenly;
-    list-style: none; 
-    font-size: 22px;
-}
-.CC{
-   
-    color: rgb(0, 0, 0);
-    padding: 110px;
-    padding-top: 90px;
-    font-size: 40px;
+.name {
+  position: relative;
+  margin-top: 3px;
+  top: -40px;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 40px;
 }
 
-.description{
-    color: black;
-    font-size: 22px;
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-right: 45px;
+}
+li {
+  align-content: space-evenly;
+  list-style: none;
+  font-size: 22px;
+}
+.CC {
+  color: rgb(0, 0, 0);
+  padding: 110px;
+  padding-top: 90px;
+  font-size: 40px;
 }
 
-.CAT{
-    height: 350px;
-    width: 290px;
-    position: absolute;   
-    top: 20px;            
-    right: 250px;         
-    padding: 100px;
+.description {
+  color: black;
+  font-size: 22px;
 }
 
-.footer{
-    background-color:rgb(242, 208, 208);
-    padding: 50px;
-    text-align: center;
-    font-size: 22px;
+.CAT {
+  height: 350px;
+  width: 290px;
+  position: absolute;
+  top: 20px;
+  right: 250px;
+  padding: 100px;
 }
-.footer motive{
-    padding-bottom: 30px;
-    color: black;
+
+.footer {
+  background-color: rgb(242, 208, 208);
+  height: 4cm;
+  font-size: 22px;
+}
+
+.heading {
+  color: black;
+  text-align: center;
+  padding-top: 11px;
+  font-size: 28px;
+  font-weight: 700;
+  margin: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.MOTIVE {
+  color: black;
+  padding-top: 10px;
+  text-align: center;
+  margin: 10px;
+  padding: 3px 90px;
+  font-size: 22px;
 }
