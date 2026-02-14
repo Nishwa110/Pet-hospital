@@ -24,7 +24,7 @@
         <p>
             <div class="CC">Compassionate care,<br>Cutting-edge medicine.<br><p class="description">Pet Planet hospital is a full service state accredited<br> veterinary hospital. We know how important your pets are and<br> believe they are part of your family.</p></div>
         </p>
-        <img class="CAT" src="Cat.jpg" alt="description">
+        <img class="CAT" src="image.png" alt="description">
     </main>
     <footer class="footer">
         <p class="heading">Our motive</p>
