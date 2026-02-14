@@ -27,7 +27,8 @@
         <img class="CAT" src="Cat.jpg" alt="description">
     </main>
     <footer class="footer">
-        <p class="motive">Our Motive</p>
+        <p class="heading">Our motive</p>
+        <p class="MOTIVE">We're driven by a simple belief: every pet deserves to live a healthy, happy life. Our motive is to be your trusted partner in your pet's wellness journey—offering preventive care, advanced treatments, and compassionate support during every stage of their life. We're here not just to treat illness, but to promote lifelong vitality.</p>
     </footer>
 </body>
 </html>
