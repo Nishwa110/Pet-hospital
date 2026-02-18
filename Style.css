@@ -2,6 +2,10 @@ body {
   background-color: rgb(236, 220, 240);
   margin: 0px;
   padding: 0px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  flex: 1;
 }
 p {
   color: whitesmoke;
@@ -36,8 +40,7 @@ li {
 }
 .CC {
   color: rgb(0, 0, 0);
-  padding: 110px;
-  padding-top: 90px;
+  padding: 84px;
   font-size: 40px;
 }
 
@@ -48,17 +51,17 @@ li {
 
 .CAT {
   height: 350px;
-  width: 290px;
+  width: 360px;
   position: absolute;
-  top: 101px;
-  right: 295px;
+  top: 61px;
+  right: 220px;
   padding: 100px;
   
 }
 
 .footer {
   background-color: rgb(242, 208, 208);
-  height: 4cm;
+  margin-top: 13px;
   font-size: 22px;
 }
 
@@ -80,3 +83,6 @@ li {
   padding: 3px 90px;
   font-size: 22px;
 }
+ main{
+  flex: 1;
+ }
