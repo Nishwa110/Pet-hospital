@@ -7,8 +7,9 @@ body {
   min-height: 100vh;
   flex: 1;
 }
-main {
+header {
     font-size: 22px;
     text-align: center;
     background-color: lightskyblue;
+    padding: 15px;
 }
