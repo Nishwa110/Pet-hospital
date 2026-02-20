@@ -1,5 +1,5 @@
 body {
-  background-color:azure;
+  background-color:rgb(236, 220, 240);
   margin: 0px;
   padding: 0px;
   display: flex;
@@ -10,14 +10,14 @@ body {
 header {
     font-size: 22px;
     text-align: center;
-    background-color: lightskyblue;
+    background-color:  rgb(242, 208, 208);
     padding: 15px;
 }
 
 p {
   font-size: 50px;
   text-align: center;
-  color: lightskyblue;
+  color: black;
   margin-top: 10px;
 }
 
