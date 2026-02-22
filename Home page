@@ -9,14 +9,14 @@
 <body>
     <header>
         <nav>
-            <ul>
-                <li> About Us </li>
-                <li> Services </li>
-                <li> Shop </li>
-                <li> Resources</li>
-                <li> Reviews </li>
-                <li> Contact </li>
-            </ul>
+             <ul>
+                <button><li> About Us </li></button>
+                <button><li>Services</li></button>
+                <button><li> Shop </li></button>
+                <button><li> Resources</li></button>
+                <button><li> Reviews </li></button>
+                <button><li> Contact </li></button>
+            </ul> 
             <p class="name">Pet Planet Hospital</p>
         </nav>
     </header>
