@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Services</title>
+    <link rel="stylesheet" href="services.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      We are committed to providing the highest quality veterinary care for your
+      beloved pets. Our hospital offers a wide range of medical, surgical, and
+      preventive services designed to support your pets health at every stage of
+      life. With modern equipment and a compassionate team, we ensure your pets
+      receive safe, reliable, and comfortable treatment.
+    </header>
+
+    <p class="Services">Services we offer</p>
+
+    <div class="card" style="width: 18rem">
+      <img src="Grooming.png" class="card-img-top" alt="..." />
+      <div class="card-body">
+        <h5 class="card-title">Grooming</h5>
+        <p class="card-text">
+          We know grooming is important for a pet. It makes animals so
+          attractive!
+        </p>
+        <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+      </div>
+    </div>
+  </body>
+</html>
