@@ -61,7 +61,6 @@ li {
 
 .footer {
   background-color: rgb(242, 208, 208);
-  margin-top: 13px;
   font-size: 22px;
 }
 
@@ -91,4 +90,7 @@ button{
   color:black;
   background-color:  rgb(242, 208, 208);
   cursor: pointer;
+  position: relative;
+  z-index: 10;
+  padding: 3px;
 }
