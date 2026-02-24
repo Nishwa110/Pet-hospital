@@ -7,11 +7,7 @@ body {
   min-height: 100vh;
   flex: 1;
 }
-p {
-  color: whitesmoke;
-  text-align: left;
-  font-size: 22px;
-}
+
 nav {
   background-color: rgb(242, 208, 208);
   padding-top: 10px;
@@ -19,8 +15,8 @@ nav {
 .name {
   position: relative;
   margin-top: 3px;
-  top: -40px;
-  font-size: 25px;
+  top: -32px;
+  font-size: 27px;
   color: black;
   font-weight: bold;
   font-family: "Courier New", Courier, monospace;
@@ -92,5 +88,6 @@ button{
   cursor: pointer;
   position: relative;
   z-index: 10;
+  top:10px;
   padding: 3px;
 }
