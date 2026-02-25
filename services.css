@@ -32,5 +32,7 @@ header {
   background: rgb(247, 226, 226);
   border-color: palevioletred;
   border-width: 4px;
+  display: flex;
+  justify-content: baseline;
   
 }
