@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: rgb(236, 220, 240);
+  background-color: rgb(237, 216, 241);
 }
 
 header {
@@ -29,4 +29,8 @@ header {
 
 .card{
   margin: 20px;
+  background: rgb(247, 226, 226);
+  border-color: palevioletred;
+  border-width: 4px;
+  
 }
