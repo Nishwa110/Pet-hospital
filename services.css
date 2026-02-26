@@ -32,7 +32,8 @@ header {
   background: rgb(247, 226, 226);
   border-color: palevioletred;
   border-width: 4px;
-    display: flex;
-  justify-content: space-between; /* space only between cards */
-  padding: 0 20px; /* distance from screen edges */
+  display: flex;
+  justify-content: space-between; 
+  padding: 0 20px; 
+ 
 }
