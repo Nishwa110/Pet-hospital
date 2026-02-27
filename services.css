@@ -36,3 +36,9 @@ header {
   padding: 0 20px;
   left: 35px; 
 }
+
+.card-img-topt{
+  padding: 20px;
+  transform: scale(1.15);
+  border-radius: 20px;
+}
