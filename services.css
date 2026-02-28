@@ -63,8 +63,5 @@ header {
   border-color: palevioletred;
   border-width: 3px;
   width: 150px;
-  position: relative;
-  display: inline-block;
 
-  margin-top: auto;
 }
