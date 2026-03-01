@@ -63,5 +63,12 @@ header {
   border-color: palevioletred;
   border-width: 3px;
   width: 150px;
+}
 
+.footer{
+  background:palevioletred;
+   font-size: 22px;
+    text-align: center;
+    
+    padding: 15px;   
 }
