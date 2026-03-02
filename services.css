@@ -9,6 +9,7 @@ body{
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow-x: hidden;
 }
 
 
@@ -70,10 +71,12 @@ header {
   width: 150px;
 }
 
-.MOTIVE{
+.Footer{
   background:palevioletred;
   font-size: 22px;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 35px;
+  padding: 2px;
+  margin-left: 25px;
 }
 
