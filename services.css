@@ -12,7 +12,6 @@ body{
   overflow-x: hidden;
 }
 
-
 header {
     font-size: 22px;
     text-align: center;
@@ -45,24 +44,7 @@ header {
   left: 35px; 
 }
 
-.button1{
-  color: rgb(164, 47, 67);
-  background-color: rgb(252, 204, 204);
-  padding: 12px;
-  border-color: palevioletred;
-  border-width: 3px;
-}
-
-.button2{
-  color: rgb(164, 47, 67);
-  background-color: rgb(252, 204, 204);
-  padding: 12px;
-  border-color: palevioletred;
-  border-width: 3px;
-  width: 150px;
-}
-
-.button3{
+.button{
   color: rgb(164, 47, 67);
   background-color: rgb(252, 204, 204);
   padding: 12px;
@@ -79,4 +61,3 @@ header {
   padding: 2px;
   margin-left: 25px;
 }
-
