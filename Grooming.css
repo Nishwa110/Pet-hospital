@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color:pink;
+    
+}
+
+.grooming{
+    background-color: palevioletred;
+    font-size: 22px;
+    
+}
