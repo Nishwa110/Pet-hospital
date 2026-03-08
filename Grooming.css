@@ -5,6 +5,7 @@
 
 body {
   background-color: rgb(236, 220, 240);
+   overflow-x: hidden;
 }
 
 header {
@@ -32,4 +33,14 @@ header {
   border-color: palevioletred;
   border-width: 3px;
   width: 180px;
+
+}
+
+.Footer{
+  background:palevioletred;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 35px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
