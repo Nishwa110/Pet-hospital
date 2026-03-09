@@ -1,9 +1,36 @@
 *{
     padding: 0;margin: 0;
 }
+body{
+    background: rgb(236, 220, 240);
+}
 .booking{
-    background-color: palevioletred;
+    background-color: rgb(242, 208, 208);
     text-align: center;
     padding: 30px;
-    font-size: x-larger;
+    font-size: xx-large;
+}
+
+/* Change the background and text color of all input boxes */
+input.form-control,
+textarea.form-control,
+.input-group-text {
+    background-color: #f0e6f6;  /* Light purple background */
+    color: #333;                 /* Text color */
+    border: 2px solid #cfa6f0;   /* Border color */
+      
+}
+
+/* Change color on focus */
+input.form-control:focus,
+textarea.form-control:focus {
+    background-color: #e0d0f0;  /* Slightly darker background on focus */
+    border-color: #a078d1;      /* Border color on focus */
+    box-shadow: 0 0 5px #a078d1; /* Glow effect on focus */
+}
+
+/* Optional: Change placeholder text color */
+input::placeholder,
+textarea::placeholder {
+    color: #7a5ca6;  /* Lighter placeholder color */
 }
