@@ -4,12 +4,14 @@
 body{
     background: rgb(236, 220, 240);
 }
+
 .booking{
     background-color: rgb(242, 208, 208);
     text-align: center;
     padding: 30px;
     font-size: xx-large;
 }
+
 /* Change the background and text color of all input boxes */
 input.form-control,
 textarea.form-control,
