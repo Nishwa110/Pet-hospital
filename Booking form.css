@@ -11,25 +11,23 @@ body{
     font-size: xx-large;
 }
 
-/* Change the background and text color of all input boxes */
+
 input.form-control,
 textarea.form-control,
 .input-group-text {
-    background-color: #f0e6f6;  /* Light purple background */
-    border: solid palevioletred; 
-     
+    background-color: #f0e6f6; 
+    border: solid palevioletred;     
 }
 
-/* Change color on focus */
 input.form-control:focus,
 textarea.form-control:focus {
-    background-color: #e0d0f0;  /* Slightly darker background on focus */
-    border-color: palevioletred;      /* Border color on focus */
-    box-shadow: 0 0 5px palevioletred; /* Glow effect on focus */
+    background-color: #e0d0f0; 
+    border-color: palevioletred;     
+    box-shadow: 0 0 5px palevioletred;
 }
 
-/* Optional: Change placeholder text color */
+
 input::placeholder,
 textarea::placeholder {
-    color: palevioletred;  /* Lighter placeholder color */
+    color: palevioletred;  
 }
