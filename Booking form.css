@@ -17,6 +17,7 @@ textarea.form-control,
 .input-group-text {
     background-color: #f0e6f6; 
     border: solid palevioletred;     
+    
 }
 
 input.form-control:focus,
@@ -30,4 +31,8 @@ textarea.form-control:focus {
 input::placeholder,
 textarea::placeholder {
     color: palevioletred;  
+}
+
+.input-group{
+    gap: 20px;
 }
