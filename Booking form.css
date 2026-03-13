@@ -37,4 +37,15 @@ textarea::placeholder {
     gap: 20px;
     border: solid palevioletred; 
     background-color: #f0e6f6; 
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.Footer{
+  background:palevioletred;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 35px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
