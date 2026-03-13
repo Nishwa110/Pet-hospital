@@ -33,6 +33,8 @@ textarea::placeholder {
     color: palevioletred;  
 }
 
-.input-group{
+.DOCTOR{
     gap: 20px;
+    border: solid palevioletred; 
+    background-color: #f0e6f6; 
 }
