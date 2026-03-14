@@ -3,9 +3,11 @@
     margin: 0;
     overflow-x: hidden;
 }
+
 body{
     background: rgb(236, 220, 240);
 }
+
 .booking{
     background-color: rgb(242, 208, 208);
     text-align: center;
@@ -13,13 +15,11 @@ body{
     font-size: xx-large;
 }
 
-
 input.form-control,
 textarea.form-control,
 .input-group-text {
     background-color: #f0e6f6; 
     border: solid palevioletred;     
-    
 }
 
 input.form-control:focus,
@@ -28,7 +28,6 @@ textarea.form-control:focus {
     border-color: palevioletred;     
     box-shadow: 0 0 5px palevioletred;
 }
-
 
 input::placeholder,
 textarea::placeholder {
