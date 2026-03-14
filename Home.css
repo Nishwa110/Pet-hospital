@@ -1,3 +1,4 @@
+
 body {
   background-color: rgb(236, 220, 240);
   margin: 0px;
@@ -7,6 +8,7 @@ body {
   min-height: 100vh;
   flex: 1;
 }
+
 
 nav {
   background-color: rgb(242, 208, 208);
@@ -55,7 +57,7 @@ li {
   
 }
 
-.footer {
+.section {
   background-color: rgb(242, 208, 208);
   font-size: 22px;
 }
@@ -77,10 +79,8 @@ li {
   margin: 10px;
   padding: 3px 90px;
   font-size: 22px;
+  
 }
- main{
-  flex: 1;
- }
 
 button{
   color: rgb(164, 47, 67);
@@ -92,5 +92,14 @@ button{
   z-index: 10;
   top:10px;
   padding: 3px;
-  width: 120px;
+  width: 121px;
+}
+
+.Footer{
+  background:palevioletred;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 30px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
