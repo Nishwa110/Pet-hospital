@@ -10,12 +10,10 @@
     <header>
         <nav>
              <ul>
-                <button><li> About Us </li></button>
-                <button><li>Services</li></button>
-                <button><li> Shop </li></button>
-                <button><li> Resources</li></button>
-                <button><li> Reviews </li></button>
-                <button><li> Contact </li></button>
+                 <button><li>Services</li></button>
+                 <button><li> Shop </li></button>
+                 <button><li> Reviews </li></button>
+                 
             </ul> 
             <p class="name">Pet Planet Hospital</p>
         </nav>
@@ -26,9 +24,34 @@
 
         <img class="CAT" src="Cat-removebg-preview.png" alt="description">
     </main>
-    <footer class="footer">
+    <section class="section">
         <p class="heading">Our motive</p>
         <p class="MOTIVE">We're driven by a simple belief: every pet deserves to live a healthy, happy life. Our motive is to be your trusted partner in your pet's wellness journey—offering preventive care, advanced treatments, and compassionate support during every stage of their life. We're here not just to treat illness, but to promote lifelong vitality.</p>
+    </section>
+     <footer class="footer">
+      <div class="row">
+        <div class="col-md-4">
+          <p class="Footer">
+            📞 Phone: 123-456-789 <br />🕐 Mon-Sat: 9AM-7PM<br />Sun: 9AM-5PM<br />📍
+            Address: 123 Pet Street
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p class="Footer">
+            📧 Email: vet@clinic.com<br />Social Media:<br />Facebook:
+            pet_planet <br />
+            Instagram: PET_PLANET
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p class="Footer">
+            Working Staff:<br />
+            Dr. Sirius Black <br />
+            Dr. Reamus Lupin <br />
+            Dr. Severus Snape
+          </p>
+        </div>
+      </div>
     </footer>
 </body>
 </html>
