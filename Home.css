@@ -7,6 +7,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   flex: 1;
+  overflow-x: hidden;
 }
 
 
@@ -48,12 +49,15 @@ li {
 }
 
 .CAT {
-  height: 350px;
-  width: 360px;
+  height: 540px;
+  width: 550px;
   position: absolute;
-  top: 63px;
+  top: 91px;
   right: 220px;
   padding: 100px;
+
+   
+
   
 }
 
@@ -103,3 +107,4 @@ button{
   margin-right: 25px;
   margin-left: 25px;
 }
+
