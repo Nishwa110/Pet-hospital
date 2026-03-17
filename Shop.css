@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    background-color:rgb(237, 216, 241);
+}
+
 .header{
     background-color: rgb(242, 208, 208);
     padding-top: 20px;
