@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(242, 208, 208);
+    padding-top: 20px;
+    height: 70px;
+    font-size: 50px;
+    text-align: center;
+}
