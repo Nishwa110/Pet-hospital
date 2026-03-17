@@ -1,6 +1,4 @@
-
 body {
-  background-color: rgb(236, 220, 240);
   margin: 0px;
   padding: 0px;
   display: flex;
@@ -10,11 +8,11 @@ body {
   overflow-x: hidden;
 }
 
-
 nav {
   background-color: rgb(242, 208, 208);
   padding-top: 10px;
 }
+
 .name {
   position: relative;
   margin-top: 3px;
@@ -32,11 +30,13 @@ nav ul {
   gap: 20px;
   padding-right: 45px;
 }
+
 li {
   align-content: space-evenly;
   list-style: none;
   font-size: 22px;
 }
+
 .CC {
   color: rgb(0, 0, 0);
   padding: 84px;
@@ -55,9 +55,6 @@ li {
   top: 91px;
   right: 220px;
   padding: 100px;
-
-   
-
   
 }
 
@@ -107,4 +104,3 @@ button{
   margin-right: 25px;
   margin-left: 25px;
 }
-
