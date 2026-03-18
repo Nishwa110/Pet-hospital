@@ -16,7 +16,7 @@ nav {
 .name {
   position: relative;
   margin-top: 3px;
-  top: -32px;
+  bottom: 35px;
   font-size: 27px;
   color: black;
   font-weight: bold;
@@ -91,7 +91,7 @@ button{
   cursor: pointer;
   position: relative;
   z-index: 10;
-  top:10px;
+  top:15px;
   padding: 3px;
   width: 121px;
 }
