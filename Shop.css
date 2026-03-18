@@ -7,10 +7,44 @@ body{
     background-color:rgb(237, 216, 241);
 }
 
-.header{
-    background-color: rgb(242, 208, 208);
-    padding-top: 20px;
-    height: 70px;
-    font-size: 50px;
-    text-align: center;
+nav {
+  background-color: rgb(242, 208, 208);
+  padding-top: 10px;
+}
+
+.name {
+  position: relative;
+  margin-top: 3px;
+  top: -32px;
+  font-size: 27px;
+  color: black;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 40px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  padding-right: 45px;
+}
+
+li {
+  align-content: space-evenly;
+  list-style: none;
+  font-size: 22px;
+}
+
+button{
+  color: rgb(164, 47, 67);
+  background-color: rgb(252, 204, 204);
+  border-color: palevioletred;
+  border-width: 3px;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+  top:10px;
+  padding: 3px;
+  width: 121px;
 }
