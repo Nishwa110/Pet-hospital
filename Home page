@@ -12,9 +12,9 @@
     <header>
         <nav>
              <ul>
-                 <button><li>Services</li></button>
-                 <button><li> Shop </li></button>
-                 <button><li> Reviews </li></button>
+                 <button onclick="window.location.href='services.html'"><li>Services</li></button>
+                 <button onclick="window.location.href='Shop.html'"><li> Shop </li></button>
+                 <button onclick="window.location.href='Reviews.html'"><li> Reviews </li></button>
             </ul> 
             <p class="name">Pet Planet Hospital</p>
         </nav>
