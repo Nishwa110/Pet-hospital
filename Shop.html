@@ -10,18 +10,18 @@
     />
     <link rel="stylesheet" href="Shop.css" />
 </head>
-<header>
-        <nav>
-             <ul>
-                 <button><li>Cats</li></button>
-                 <button><li> Dogs </li></button>
-                 <button><li> cart 🛒 </li></button>
-            </ul> 
-            <p class="name">Pet Shop</p>
-        </nav>
-</header>
 <body>
-  <section>
+  <header>
+          <nav>
+               <ul>
+                   <button id="dogs-btn"><li>Cats</li></button>
+                   <button><li> Dogs </li></button>
+                   <button><li> cart 🛒 </li></button>
+              </ul> 
+              <p class="name">Pet Shop</p>
+          </nav>
+  </header>
+  <section id="cats-section">
     <div class="container mt-4">
      <div class="row g-4">
        <div class="col-md-4 col-sm-6">
@@ -67,7 +67,7 @@
        </div>
      </div>
    </div>
-   <section>
+   
 
      <div class="container mt-4">
       <div class="row g-4">
@@ -114,7 +114,7 @@
       </div>
     </div>
    </section>
- 
+ <section id="Dogs-section">
      <div class="container mt-4">
        <div class="row g-4">
          <div class="col-md-4 col-sm-6">
@@ -205,8 +205,6 @@
        </div>
      </div>
    </section>
-
-    
-    
+   <script src="Shop.js"></script>
 </body>
 </html>
