@@ -11,16 +11,33 @@
     <link rel="stylesheet" href="Shop.css" />
 </head>
 <body>
-  <header>
-          <nav>
-               <ul>
-                   <button id="cats-btn">Cats</button>
-                   <button id="dogs-btn"> Dogs</button>
-                   <button> cart 🛒 </button>
-              </ul> 
-              <p class="name">Pet Shop</p>
-          </nav>
-  </header>
+<header>
+  <nav>
+    <ul>
+      <button id="cats-btn">Cats</button>
+      <button id="dogs-btn"> Dogs</button>
+      
+      <!-- ✅ Added ID -->
+      <button id="cartBtn"> cart 🛒 </button>
+      
+    </ul> 
+    <p class="name">Pet Shop</p>
+  </nav>
+</header>
+
+<!-- ✅ ADD THIS RIGHT AFTER HEADER -->
+<!-- Overlay -->
+<div id="overlay"></div>
+
+<!-- Cart Sidebar -->
+<div id="cartSidebar">
+  <button id="closeCart">❌</button>
+  <h2>Your Cart 🛒</h2>
+  
+  <div id="cartItems">
+    <p>No items yet</p>
+  </div>
+</div>
   <section id="cats-section">
     <div class="container mt-4">
      <div class="row g-4">
