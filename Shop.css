@@ -28,12 +28,7 @@ nav ul {
   justify-content: flex-end;
   gap: 20px;
   padding-right: 45px;
-}
-
-li {
-  align-content: space-evenly;
-  list-style: none;
-  font-size: 22px;
+  margin-bottom: 1px;
 }
 
 button{
@@ -46,7 +41,7 @@ button{
   z-index: 10;
   top:10px;
   padding: 3px;
-  width: 121px;
+  width: 95px;
 }
 
 .card{
