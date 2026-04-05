@@ -44,6 +44,48 @@ button{
   width: 95px;
 }
 
+#cartSidebar {
+  position: fixed;
+  top: 0;
+  right: -350px; 
+  width: 350px;
+  height: 100%;
+  background-color: rgb(242, 208, 208);
+  box-shadow: -4px 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  transition: right 0.8s ease;
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+
+#cartSidebar.active {
+  right: 0;
+}
+
+#closeCart {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  float: right;
+}
+
+/* ===== CART ITEMS ===== */
+
+#cartItems {
+  margin-top: 20px;
+}
+
+#cartItems p {
+  color: #555;
+}
+
+#cartSidebar::-webkit-scrollbar-thumb {
+  background: rgb(242, 208, 208);
+  border-radius: 10px;
+}
+
 .card{
   margin: 20px;
   background: rgb(247, 226, 226);
